@@ -1,0 +1,74 @@
+# Site settings
+title: Pintokyo Games
+email: infol@pintokyo.com
+url: https://pintokyo.github.io
+description: "Pintokyo Games is a game studio for mobile games, placed in Lausanne. It was founded by Tihomir Gvero in January 2019."
+keywords: "games, mobile, arcade, card games, strategy, pintokyo"
+skills: "Game Studio and Software Development Company"
+meta_author: Gvero Tihomir
+logo: "img/logo-small.png"
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: pintokyo
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+  link: 18bc9c
+  link-active: bc8b18
+
+# Header properties
+header:
+  background-video: "img/web-header-video.mp4"
+
+# Footer settings
+footer:
+  copyright: Gvero's Pintokyo Games
+  location: Location
+  social: Around the Web
+  support: Support
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url:
+  - title: linkedin
+    url:
+  - title: pinterest
+    url:
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: CH-1004 Lausanne
+  - line: Switzerland
+
+# Support content
+support:
+  email: '<a href="mailto:info@pintokyo.com">info@pintokyo.com</a>'
+  phone: '+41 76 567 95 22'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  services:
+
