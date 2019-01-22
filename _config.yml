@@ -35,7 +35,7 @@ color:
 
 # Header properties
 header:
-  background-video: "img/web-header-video.mp4"
+  background-video: ""
 
 # Footer settings
 footer:
