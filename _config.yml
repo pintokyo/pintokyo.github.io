@@ -35,7 +35,7 @@ color:
 
 # Header properties
 header:
-  background-video: "https://github.com/pintokyo/pintokyo.github.io/blob/master/img/web-header-video.mp4"
+  background-video: "img/web-header-video.mp4"
 
 # Footer settings
 footer:
