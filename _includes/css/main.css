@@ -111,7 +111,7 @@ header {
   padding-bottom: 220px;
 }
 
-header video {
+/*header video {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -124,9 +124,9 @@ header video {
   -moz-transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
-}
+}*/
 
-header .overlay {
+/*header .overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -135,7 +135,7 @@ header .overlay {
   background-color: black;
   opacity: 0.2;
   z-index: 1;
-}
+}*/
 
 @media(min-width:768px) {
 
