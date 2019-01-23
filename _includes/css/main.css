@@ -105,8 +105,12 @@ header {
   padding-top: 220px;
   padding-bottom: 220px;
   background-size: cover;
-  /*background-image: url({{site.header.background-image}});*/
   background-position: 50% 50%;
+}
+
+header .container {
+    position: relative;
+    z-index: 2;
 }
 
 header video {
@@ -145,11 +149,6 @@ header video {
   }
 
   @media only screen and (max-device-width: 768px) {
-
-/*    header .container {
-        position: relative;
-        z-index: 2;
-        }*/
 
         header {
           text-align: center;
