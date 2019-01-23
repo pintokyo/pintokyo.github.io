@@ -37,6 +37,7 @@ color:
 header:
   background-video: "img/web-header-video.mp4"
   background-image: "img/web-header-image.png"
+  background-poster: "img/web-header-poster.png"
 
 # Footer settings
 footer:

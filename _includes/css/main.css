@@ -157,7 +157,9 @@ header video {
           margin-top: 4%;
           padding-top: 220px;
           padding-bottom: 220px;
-          background-size: cover;
+          min-height: 100%;
+          min-width: 100%;          
+/*          background-size: cover;*/
           background-image: url({{site.header.background-image}});
           background-position: 50% 50%;
       }
