@@ -50,13 +50,13 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: 
+    url: "https://twitter.com/PintokyoGames"
   - title: facebook
-    url:
-  - title: linkedin
-    url:
+    url: ""
+  - title: instagram
+    url: "https://www.instagram.com/pintokyogames/"
   - title: pinterest
-    url:
+    url: "https://www.pinterest.ch/pintokyogames/"
 
 # Postal address (add as many lines as necessary)
 address:
