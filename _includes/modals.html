@@ -12,32 +12,15 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ service.title }}</h2>
+                            <div style="text-align:center;">
+                                <h2>{{ service.title }}</h2>
+                                <h4>{{ service.subtitle }}</h4>
+                            </div>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ service.img }}" class="img-responsive img-centered" alt="{{ service.alt }}">
                             {% if service.description %}
-                                <p>{{ service.description }}</p>
+                                <p align="justify">{{ service.description }}</p>
                             {% endif %}
-                            <ul class="list-inline item-details">
-                                {% if service.client %}
-                                    <li>Client:
-                                        <strong><a href="http://startbootstrap.com">{{ service.client }}</a>
-                                        </strong>
-                                    </li>
-                                {% endif %}
-                                {% if service.project-date %}
-                                    <li>Date:
-                                        <strong><a href="http://startbootstrap.com">{{ service.project-date }}</a>
-                                        </strong>
-                                    </li>
-                                {% endif %}
-                                {% if service.category %}
-                                    <li>Service:
-                                        <strong><a href="http://startbootstrap.com">{{ service.category }}</a>
-                                        </strong>
-                                    </li>
-                                {% endif %}
-                            </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
