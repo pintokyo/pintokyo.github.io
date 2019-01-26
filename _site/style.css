@@ -162,11 +162,6 @@ img.logo {
 
   @media only screen and (max-device-width: 768px) {
 
-    img.logo {
-      width: 17%;
-      height: 17%;
-    }
-
     header {
       text-align: center;
       position: relative;
@@ -182,6 +177,11 @@ img.logo {
 
     header video {
       display: none;
+    }
+
+    img.logo {
+      width: 17%;
+      height: 17%;
     }
   }
 
