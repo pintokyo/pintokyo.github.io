@@ -34,6 +34,8 @@ color:
   link: 18bc9c
   link-active: bc8b18
 
+favicon: "img/favicon-32x32.png"
+
 # Header properties
 header:
   background-video: "img/web-cover-video.mp4"
