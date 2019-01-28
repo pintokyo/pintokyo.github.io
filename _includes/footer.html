@@ -27,13 +27,13 @@
                         <p>{{ site.data.trans.footer[page.lang].phone }}: {{ site.support.phone }}</p>
                     </div>
                 </div>
-                <div class="row">
+<!--                 <div class="row">
                     <div class="footer-col">
                         {{ site.data.trans.footer[page.lang].language }}:
                         {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
                         {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
                     </div>                    
-                </dir>
+                </dir> -->
             </div>
         </div>
         <div class="footer-below">
