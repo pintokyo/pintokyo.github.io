@@ -1,0 +1,79 @@
+nav:
+  en:
+    about: About
+    services: Services
+    contact: Contact
+  fr:
+    about: À propos
+    services: Services
+    contact: Contact
+
+header:
+  en:
+    skills: "Game Studio and Software Development Company"
+  fr:
+    skills: "Studio de jeux vidéo et société de développement de logiciels"
+
+about:
+  en:
+    section_title: About
+    company: <b>Gvero's Pintokyo Games</b> is a game studio and development company placed in Lausanne, Switzerland. The main services of the company are video game development and commercialization, and development of software which includes IT applications and software tools.
+    founder: <b>Tihomir Gvero</b>, the founder of the company, has more than ten years of experience in software development. He worked as a researcher at <a href="https://www.epfl.ch">EPFL</a>, as a consultant at <a href="https://itecor.com">Itecor</a> and as a data scientist at <a href="https://www.credit-suisse.com">Credit Suisse</a>. He holds a PhD in computer science from EPFL.
+  fr:
+    section_title: À propos 
+    company: <b>Gvero's Pintokyo Games</b> est une société de développement et de studio de jeux basée à Lausanne, en Suisse. Les principaux services de la société sont le développement et la commercialisation de jeux vidéo, ainsi que le développement de logiciels comprenant des applications informatiques et des outils logiciels.
+    founder: <b>Tihomir Gvero</b>, fondateur de la société, a plus de dix ans d’expérience dans le développement de logiciels. Il a travaillé comme chercheur à <a href="https://www.epfl.ch"> EPFL </a>, en tant que consultant chez <a href="https://itecor.com"> Itecor </a> et en tant qu’informaticien chez <a href="https://www.credit-suisse.com"> Credit Suisse </a>. Il est titulaire d'un doctorat en informatique de l'EPFL.
+
+services:
+  en:
+    section_title: Services
+    close: Close   
+  fr:
+    section_title: Service
+    close: Fermer
+
+contact:
+  en:
+    section_title: Contact us
+    name: Name
+    email: Email Address
+    message: Message
+    send: Send
+    name_req_msg: Please enter your name.
+    email_req_msg: Please enter your email address.
+    email_val_msg: Not a valid email address.
+    message_req_msg: Please enter your email address.
+  fr:
+    section_title: Contactez nous
+    name: Nom
+    email: Adresse Email
+    message: Message
+    send: Envoyer
+    name_req_msg: S'il vous plaît, écrivez votre nom.
+    email_req_msg: S'il vous plaît, écrivez votre adresse email.
+    email_val_msg: Adresse e-mail non valide.
+    message_req_msg: S'il vous plaît, écrivez votre adresse email.
+
+footer:
+  en:
+    location: Location
+    social: Around the Web
+    support: Support
+    copyright: Gvero's Pintokyo Games
+    address:
+      - line: CH-1004 Lausanne
+      - line: Switzerland
+    language: Language
+    email: Email
+    phone: Phone
+  fr:
+    location: Lieu
+    social: Sur le Web
+    support: Support
+    copyright: Gvero's Pintokyo Games
+    address:
+      - line: CH-1004 Lausanne
+      - line: Suisse
+    language: Langue
+    email: Email
+    phone: Phone

@@ -4,15 +4,15 @@
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.location }}</h3>
+                        <h3>{{ site.data.trans.footer[page.lang].location }}</h3>
                         <p>
-                            {% for adress in site.address %}
+                            {% for adress in site.data.trans.footer[page.lang].address %}
                                 {{ adress.line }} <br>
 		                    {% endfor %}
                         </p>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.social }}</h3>
+                        <h3>{{ site.data.trans.footer[page.lang].social }}</h3>
                         <ul class="list-inline">
                             {% for network in site.social %}
                             <li>
@@ -22,11 +22,18 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.support }}</h3>
-                        <p>Email: {{ site.support.email }}</p>
-                        <p>Phone: {{ site.support.phone }}</p>
+                        <h3>{{ site.data.trans.footer[page.lang].support }}</h3>
+                        <p>{{ site.data.trans.footer[page.lang].email }}: {{ site.support.email }}</p>
+                        <p>{{ site.data.trans.footer[page.lang].phone }}: {{ site.support.phone }}</p>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="footer-col">
+                        {{ site.data.trans.footer[page.lang].language }}:
+                        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+                        {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+                    </div>                    
+                </dir>
             </div>
         </div>
         <div class="footer-below">
