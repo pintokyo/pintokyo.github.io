@@ -38,6 +38,9 @@ color:
   link-active: bc8b18
 
 favicon: "img/favicon-32x32.png"
+flags:
+  french: "/img/france-flag-32x32.png"
+  uk: "/img/united-kingdom-flag-32x32.png"
 
 # Header properties
 header:
