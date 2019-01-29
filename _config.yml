@@ -39,8 +39,8 @@ color:
 
 favicon: "img/favicon-32x32.png"
 flags:
-  french: "/img/france-flag-32x32.png"
-  uk: "/img/united-kingdom-flag-32x32.png"
+  french: "/img/france-flag-256x256.png"
+  uk: "/img/united-kingdom-flag-256x256.png"
 
 # Header properties
 header:
