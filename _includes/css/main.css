@@ -441,7 +441,7 @@ img.logo {
     outline: 0;
   }
 
-/*  .portfolio-modal .modal-content {
+  .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
     border: 0;
@@ -498,7 +498,7 @@ img.logo {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
-  }*/
+  }
 
   .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
