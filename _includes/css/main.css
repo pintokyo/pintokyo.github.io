@@ -48,7 +48,7 @@ hr.star-primary {
   border: 0;
   border-top: solid 5px;
   text-align: center;
-/*  overflow: visible;*/
+  overflow: visible;
 }
 
 hr.star-light:after,
@@ -510,3 +510,8 @@ img.logo {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
   }
+
+/*.modal {
+    -ms-overflow-style: none;
+    overflow: hidden;
+}*/
