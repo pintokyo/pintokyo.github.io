@@ -1,6 +1,6 @@
 ---
 layout: service
-header_title: "Service: Game Development"
+title: "Game Development"
 lang: en
 ref: Game Development
 img: game.png

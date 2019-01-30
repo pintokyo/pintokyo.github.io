@@ -1,6 +1,6 @@
 ---
 layout: service
-header_title: "Service: Développement de Logiciels"
+title: "Développement de Logiciels"
 lang: fr
 ref: Software Development
 img: computer.png

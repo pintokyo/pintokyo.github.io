@@ -1,4 +1,6 @@
    <!-- Navigation -->
+    {% assign indexes=site.pages | where: 'ref', "index" | where: 'lang', page.lang %}
+    {% assign index=indexes[0] %}
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -9,7 +11,8 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#page-top">{{ site.title }}</a>
+
+                <a class="navbar-brand" href="{{index.url}}">{{ site.title }}</a>
 
                 <!-- <a href="#page-top"><img src={{ site.logo }}></a> -->
             </div>
@@ -28,8 +31,6 @@
                         <a href="#page-top"></a>
                     </li>                    
                     <li class="page-scroll">
-                        {% assign indexes=site.pages | where: 'ref', "index" | where: 'lang', page.lang %}
-                        {% assign index=indexes[0] %}
                         <a href="{{index.url}}">{{site.data.trans.nav[page.lang].home}}</a>
                     </li>
                     <li class="page-scroll">
