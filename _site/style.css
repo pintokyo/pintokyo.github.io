@@ -134,6 +134,15 @@ img.logo {
   height: 165px;
 }
 
+img.service-logo {
+  width: 100px;
+  height: 55px;
+}
+
+/*.service-description {
+  margin-top: 3%;
+}*/
+
 /*header video {
   position: absolute;
   top: 50%;

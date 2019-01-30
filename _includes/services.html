@@ -9,40 +9,30 @@
                 </div>
             </div>
             <div class="row">
-<!--                 {% for post in site.services %}
-                    <div class="col-lg-4 portfolio-item ">
-                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
-                                </div>
+                <div class="col-lg-4 portfolio-item col-lg-offset-2">
+                    {% assign services_gd=site.services | where: 'lang', page.lang | where: 'ref', "Game Development" %}
+                    {% assign gameDevelopment=services_gd[0] %}                   
+                    <a href="{{gameDevelopment.url}}" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
                             </div>
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-                        </a>
-                    </div>
-                {% endfor %} -->
-
-            <div class="col-lg-4 portfolio-item col-lg-offset-2">
-                        <a href="#portfolioModal-1" class="portfolio-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
-                                </div>
+                        </div>
+                        <img src="/img/portfolio/game.png" class="img-responsive" alt="image-alt">
+                    </a>
+                </div>
+                <div class="col-lg-4 portfolio-item">
+                    {% assign services_d=site.services | where: 'lang', page.lang | where: 'ref', "Software Development" %}
+                    {% assign development=services_d[0] %} 
+                    <a href="{{development.url}}" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
                             </div>
-                            <img src="/img/portfolio/game.png" class="img-responsive" alt="image-alt">
-                        </a>
-            </div>
-            <div class="col-lg-4 portfolio-item">
-                        <a href="#portfolioModal-2" class="portfolio-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img src="/img/portfolio/computer.png" class="img-responsive" alt="image-alt">
-                        </a>
-            </div>
-
+                        </div>
+                        <img src="/img/portfolio/computer.png" class="img-responsive" alt="image-alt">
+                    </a>
+                </div>
             </div>
         </div>
     </section>

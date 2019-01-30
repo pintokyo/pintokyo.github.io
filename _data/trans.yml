@@ -3,10 +3,12 @@ nav:
     about: About
     services: Services
     contact: Contact
+    home: Home
   fr:
     about: À propos
     services: Services
     contact: Contact
+    home: Accueil
 
 header:
   en:

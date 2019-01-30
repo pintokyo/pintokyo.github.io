@@ -21,25 +21,27 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
-                    <li class="page-scroll">
-                        <a href="#about">{{site.data.trans.nav[page.lang].about}}</a>
+                    <li class="hidden">
+                        <a href="#page-top"></a>
                     </li>
-                    <li class="page-scroll">
-                        <a href="#portfolio">{{site.data.trans.nav[page.lang].services}}</a>
+                    <li class="hidden">
+                        <a href="#page-top"></a>
                     </li>                    
                     <li class="page-scroll">
-                        <a href="#contact">{{site.data.trans.nav[page.lang].contact}}</a>
+                        {% assign indexes=site.pages | where: 'ref', "index" | where: 'lang', page.lang %}
+                        {% assign index=indexes[0] %}
+                        <a href="{{index.url}}">{{site.data.trans.nav[page.lang].home}}</a>
                     </li>
                     <li class="page-scroll">
-                        {% assign pages_en=site.pages | where: 'ref', page.ref | where: 'lang', "en" %}
+                        {% assign pages_en=site.services | where: 'ref', page.ref | where: 'lang', "en" %}
                         {% assign page_en=pages_en[0] %}
                         <a href="{{ page_en.url }}" class="en"> <img src="{{site.flags.uk}}" width="28px"> en</a>
                     </li>
                     <li class="page-scroll">
-                        {% assign pages_fr=site.pages | where: 'ref', page.ref | where: 'lang', "fr" %}
+                        {% assign pages_fr=site.services | where: 'ref', page.ref | where: 'lang', "fr" %}
                         {% assign page_fr=pages_fr[0] %}
                         <a href="{{ page_fr.url }}" class="fr"> <img src="{{site.flags.french}}" width="28px"> fr</a>
-                    </li>                                  
+                    </li>                 
                 </ul>
             </div>
 

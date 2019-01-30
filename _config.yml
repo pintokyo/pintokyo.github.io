@@ -37,7 +37,7 @@ color:
   link: 18bc9c
   link-active: bc8b18
 
-favicon: "img/favicon-256x256.png"
+favicon: "/img/favicon-256x256.png"
 flags:
   french: "/img/france-flag-256x256.png"
   uk: "/img/united-kingdom-flag-256x256.png"
@@ -70,3 +70,4 @@ permalink: pretty
 
 collections:
   services:
+      output: true
