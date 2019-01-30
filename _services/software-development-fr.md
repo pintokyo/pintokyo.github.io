@@ -1,6 +1,7 @@
 ---
 layout: service
-title: "Développement de Logiciels"
+title: "Logiciels"
+subtitle: "Développement"
 lang: fr
 ref: Software Development
 img: computer.png
