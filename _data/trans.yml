@@ -19,12 +19,12 @@ header:
 about:
   en:
     section_title: About
-    company: <b>Gvero's Pintokyo Games</b> is a game studio and software development company placed in Lausanne, Switzerland. It was founded in January 2019. The main services of the company are video game development and commercialization, and development of software which includes IT applications and software tools.
-    founder: <b>Tihomir Gvero</b>, the founder of the company, has more than ten years of experience in software development. He worked as a researcher at <a href="https://www.epfl.ch">EPFL</a>, as a consultant at <a href="https://itecor.com">Itecor</a> and as a data scientist at <a href="https://www.credit-suisse.com">Credit Suisse</a>. He holds a PhD in computer science from EPFL.
+    company: <b>Gvero's Pintokyo Games</b> is a game studio placed in Lausanne, Switzerland. The company's main services are the development and commercialization of video games, as well as the development of software including IT applications and software tools. It was founded in 2019.
+    founder: <b> Tihomir Gvero </b>, the founder of the company and the only employee, has more than ten years of experience in software development. As a holder of a PhD in computer science from <a href="https://www.epfl.ch">EPFL</a>, he worked as an IT consultant at <a href="https://itecor.com">Itecor</a> and as a data scientist for <a href="https://www.credit-suisse.com">Credit Suisse</a>.
   fr:
     section_title: À propos 
-    company: <b>Gvero's Pintokyo Games</b> est un studio de jeux vidéo basé à Lausanne, en Suisse. Les principaux services de la société sont le développement et la commercialisation de jeux vidéo, ainsi que le développement de logiciels comprenant des applications informatiques et des outils logiciels.
-    founder: <b>Tihomir Gvero</b>, fondateur de la société, a plus de dix ans d'expérience dans le développement de logiciels. Titulaire d'un doctorat en informatique de <a href="https://www.epfl.ch"> l'EPFL </a>, il a ensuite travaillé comme consultant informatique chez <a href="https://itecor.com"> Itecor </a> et en tant que scientifique des données pour <a href="https://www.credit-suisse.com"> Credit Suisse </a>.
+    company: <b>Gvero's Pintokyo Games</b> est un studio de jeu vidéo basé à Lausanne, en Suisse. Les principaux services de la société sont le développement et la commercialisation de jeux vidéo, ainsi que le développement de logiciels comprenant des applications informatiques et des outils logiciels. Le studio a été fondée en 2019.
+    founder: <b>Tihomir Gvero</b>, fondateur et seul employé de la société, a plus de dix ans d'expérience dans le développement de logiciels. Titulaire d'un doctorat en informatique de <a href="https://www.epfl.ch">l'EPFL</a>, il a travaillé comme consultant informatique chez <a href="https://itecor.com">Itecor</a> et en tant que scientifique des données pour <a href="https://www.credit-suisse.com">Credit Suisse</a>.
 services:
   en:
     section_title: Services
