@@ -201,30 +201,19 @@ img.service-logo {
     }
 
     .navbar-fixed-top .navbar-brand {
-      font-size: 1em;
-      -webkit-transition: all .3s;
-      -moz-transition: all .3s;
-      transition: all .3s;
-    }
-
-/*    .navbar-fixed-top .navbar-brand {
       font-size: 2em;
       -webkit-transition: all .3s;
       -moz-transition: all .3s;
       transition: all .3s;
-    }*/
+    }
 
     .navbar-fixed-top.navbar-shrink {
       padding: 10px 0;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
-      font-size: 1em;
-    }
-
-/*    .navbar-fixed-top.navbar-shrink .navbar-brand {
       font-size: 1.5em;
-    }*/
+    }
   }
 
   .navbar {
