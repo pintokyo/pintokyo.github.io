@@ -9,7 +9,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 portfolio-item col-lg-offset-2">
+                <div class="col-lg-4 portfolio-item">
                     {% assign services_gd=site.services | where: 'lang', page.lang | where: 'ref', "Game Development" %}
                     {% assign gameDevelopment=services_gd[0] %}                   
                     <a href="{{gameDevelopment.url}}" class="portfolio-link" data-toggle="modal">
@@ -19,6 +19,18 @@
                             </div>
                         </div>
                         <img src="/img/portfolio/game.png" class="img-responsive" alt="image-alt">
+                    </a>
+                </div>
+                <div class="col-lg-4 portfolio-item">
+                    {% assign services_d=site.services | where: 'lang', page.lang | where: 'ref', "Art Design" %}
+                    {% assign development=services_d[0] %} 
+                    <a href="{{development.url}}" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/portfolio/art.png" class="img-responsive" alt="image-alt">
                     </a>
                 </div>
                 <div class="col-lg-4 portfolio-item">

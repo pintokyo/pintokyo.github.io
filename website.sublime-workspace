@@ -1,0 +1,751 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"color",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"nav",
+				"navbar-right"
+			],
+			[
+				"in",
+				"instagram"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"bu",
+				"background-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 2191,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/nav.html",
+			"settings":
+			{
+				"buffer_size": 2600,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/css/main.css",
+			"settings":
+			{
+				"buffer_size": 9213,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/nav-service.html",
+			"settings":
+			{
+				"buffer_size": 2580,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Insat",
+				"Package Control: Install Package"
+			],
+			[
+				"package control Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Insa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tihomirg/git/pintokyo/website",
+		"/Users/tihomirg/git/pintokyo/website/_data",
+		"/Users/tihomirg/git/pintokyo/website/_includes",
+		"/Users/tihomirg/git/pintokyo/website/_includes/css",
+		"/Users/tihomirg/git/pintokyo/website/_layouts",
+		"/Users/tihomirg/git/pintokyo/website/_services"
+	],
+	"file_history":
+	[
+		"/Users/tihomirg/git/pintokyo/website/_includes/contact_static.html",
+		"/Users/tihomirg/git/pintokyo/website/_includes/about.html",
+		"/Users/tihomirg/git/pintokyo/website/_includes/css/main.css",
+		"/Users/tihomirg/git/pintokyo/website/_includes/footer.html",
+		"/Users/tihomirg/git/pintokyo/website/_data/trans.yml",
+		"/Users/tihomirg/git/pintokyo/website/_config.yml",
+		"/Users/tihomirg/git/pintokyo/website/_includes/header.html",
+		"/Users/tihomirg/git/pintokyo/website/index.html",
+		"/Users/tihomirg/git/pintokyo/website/accueil.html",
+		"/Users/tihomirg/git/pintokyo/website/_services/art-design-en.md",
+		"/Users/tihomirg/git/pintokyo/website/_includes/services.html",
+		"/Users/tihomirg/git/pintokyo/website/_services/art-design-fr.md",
+		"/Users/tihomirg/git/pintokyo/work-log/important-stuff.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/2020/Q3/2020-09-14/time-log/time-log-2020-09-20-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/productivity/05-deep-work.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/2020/Q3/2020-09-14/2020-09-20-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/2020/Q3/2020-09-14/time-log/time-log-2020-09-19-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/2020/Q3/2020-09-14/2020-09-14-weekly-review.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/2020/junk-food-log-2020.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/2020/deep-work-log-2020.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/2020/Q3/2020-09-14/2020-09-19-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/template_folder/daily.tmpl",
+		"/Users/tihomirg/git/pintokyo/work-log/template_folder/deep-scoreboard.tmpl",
+		"/Users/tihomirg/git/pintokyo/work-log/template_folder/time.tmpl",
+		"/Users/tihomirg/git/pintokyo/work-log/template_folder/weekly-review.tmpl",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-09-07/2020-09-12-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-09-07/2020-09-12-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-09-07/time-log/time-log-2020-09-13-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/productivity/04-readings.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-09-07/time-log/time-log-2020-09-12-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/productivity/01-who-am-i.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/productivity/03-self-improvement-plan.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/productivity/02-self-discipline.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-09-07/2020-09-09-Wed.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-09-07/time-log/time-log-2020-09-09-Wed.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-09-07/2020-09-08-Tue.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-09-07/time-log/time-log-2020-09-08-Tue.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-09-07/2020-09-07-Mon.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-09-07/time-log/time-log-2020-09-07-Mon.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-31/time-log/time-log-2020-09-03-Thu.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/productivity/03-productivity-plan.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-31/2020-09-03-Thu.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-31/2020-09-02-Wed.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-31/time-log/time-log-2020-09-02-Wed.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/productivity/skills-to-improve.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-31/2020-09-01-Tue.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-31/time-log/time-log-2020-09-01-Tue.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-31/time-log/time-log-2020-08-31-Mon.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-31/2020-08-31-Mon.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-24/time-log/time-log-2020-08-30-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-24/2020-08-30-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-24/2020-08-29-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-24/time-log/time-log-2020-08-29-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-24/time-log/time-log-2020-08-28-Fri.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-24/2020-08-28-Fri.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-24/2020-08-27-Thu.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-24/time-log/time-log-2020-08-27-Thu.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-24/2020-08-26-Wed.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-24/time-log/time-log-2020-08-26-Wed.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-24/time-log/time-log-2020-08-25-Tue.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-24/2020-08-25-Tue.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-24/2020-08-24-Mon.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-24/time-log/time-log-2020-08-24-Mon.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-17/2020-08-23-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-17/time-log/time-log-2020-08-23-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-17/2020-08-22-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-17/2020-08-21-Fri.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-17/time-log/time-log-2020-08-22-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-17/time-log/time-log-2020-08-21-Fri.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-17/2020-08-20-Thu.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-17/time-log/time-log-2020-08-20-Thu.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-17/2020-08-19-Wed.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-17/time-log/time-log-2020-08-19-Wed.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-17/2020-08-18-Tue.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-17/2020-08-17-Mon.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-17/time-log/time-log-2020-08-18-Tue.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-17/time-log/time-log-2020-08-17-Mon.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-10/2020-08-16-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-10/time-log/time-log-2020-08-16-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-10/2020-08-15-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-10/time-log/time-log-2020-08-15-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-10/2020-08-14-Fri.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-10/time-log/time-log-2020-08-14-Fri.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-10/2020-08-13-Thu.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-10/time-log/time-log-2020-08-13-Thu.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-10/2020-08-12-Wed.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-10/time-log/time-log-2020-08-12-Wed.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-10/2020-08-11-Tue.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-10/time-log/time-log-2020-08-11-Tue.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-10/2020-08-10-Mon.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-10/time-log/time-log-2020-08-10-Mon.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-03/time-log/time-log-2020-08-09-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-03/2020-08-09-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/work-log.sublime-project",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-08-03/2020-08-08-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-27/time-log/time-log-2020-08-02-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-27/2020-08-02-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-27/2020-07-31-Fri.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-27/2020-08-01-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-27/time-log/time-log-2020-07-31-Fri.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-27/time-log/time-log-2020-08-01-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-27/2020-07-30-Thu.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-27/time-log/time-log-2020-07-30-Thu.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-27/2020-07-29-Wed.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-27/time-log/time-log-2020-07-29-Wed.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-27/2020-07-28-Tue.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-27/time-log/time-log-2020-07-28-Tue.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-27/2020-07-27-Mon.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-27/time-log/time-log-2020-07-27-Mon.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-20/2020-07-26-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-20/time-log/time-log-2020-07-26-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-20/2020-07-25-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-20/time-log/time-log-2020-07-25-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-20/2020-07-24-Fri.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-20/time-log/time-log-2020-07-24-Fri.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-20/time-log/time-log-2020-07-23-Thu.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-20/2020-07-23-Thu.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-20/2020-07-22-Wed.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-20/time-log/time-log-2020-07-22-Wed.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-20/2020-07-21-Tue.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-20/time-log/time-log-2020-07-21-Tue.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-20/2020-07-20-Mon.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-20/time-log/time-log-2020-07-20-Mon.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-13/time-log/time-log-2020-07-19-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-13/2020-07-19-Sun.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-13/2020-07-18-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-13/time-log/time-log-2020-07-18-Sat.txt",
+		"/Users/tihomirg/git/pintokyo/work-log/Q3/2020-07-13/2020-07-17-Fri.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"!important",
+			"navbar-brand",
+			"page-scroll",
+			"nav",
+			"  .navbar-nav>.active>a {\n    background-color: #{{ site.color.secondary-dark }} !important;\n  }",
+			"label",
+			"btn-success",
+			"color",
+			"primary",
+			"nav",
+			"support",
+			"Support",
+			"footer",
+			"about",
+			"color.secondary",
+			"color",
+			"about",
+			"color",
+			"primary-rgb",
+			"nav",
+			"services",
+			"secondary-dark",
+			"overla",
+			"nav",
+			"back",
+			"skills",
+			"header_title",
+			"h2",
+			"portfolio-item",
+			"[00 h 00 m]",
+			"00 h 00 m]",
+			" \n",
+			"[00 h 00 m]",
+			"labels",
+			"[00 h 00 m]",
+			" [00 h 00 m]",
+			"[00 h 00 m]",
+			"40",
+			"[00 h 00 m]",
+			"#",
+			"[00 h 00 m]",
+			"notes",
+			"#",
+			"articles",
+			"#",
+			"[00 h 00 m]",
+			"#",
+			"[00 h 00 m]",
+			"#",
+			"[00 h 00 m]",
+			"#",
+			"[00 h 00 m]",
+			"#",
+			"[00 h 00 m]",
+			"#",
+			"[00 h 00 m]",
+			":",
+			"]\n",
+			" \n",
+			"[00 h 00 m]",
+			"districts",
+			"[00 h 00 m]",
+			"art",
+			"[00 h 00 m]",
+			"checks",
+			"4) Game\n\t=> [00 h 00 m]\n\n\t\t* Reread and update notes on Civilization 6\n\t\t=> [00 h 00 m]\n\n\t\t* Think about the begging of the game: units, buildings, terrain\n\t\t=> [00 h 00 m]\n\n\n5) Instagram promotion\n\t=> [00 h 00 m]\n  \t12:52 - 12:07  \n",
+			"[00 h 00 m]",
+			"=>\t",
+			"[00 h 00 m]",
+			"\n4) Game\n\t=> \n\n\t\t* Reread Wikipedia documents\n\t\t=> \n\n\t\t* Read NDI document on Ideologies\n\t\t=>\n\n\t\t* Expand on existing ideas\n\t\t=>\n\n5) Prepare CHUV documents\n\t=>",
+			" \n",
+			"[00 h 00 m]",
+			"Wikipedia",
+			"Practice",
+			"\":\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1195,
+								1183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/nav.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2292,
+								2292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_includes/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8859,
+								8859
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7219.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_includes/nav-service.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1138,
+								1138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"im",
+				"important-stuff.txt"
+			],
+			[
+				"i",
+				"important-stuff.txt"
+			],
+			[
+				"imp",
+				"important-stuff.txt"
+			],
+			[
+				"",
+				"Q3/2020-08-10/2020-08-12-Wed.txt"
+			],
+			[
+				"7 23",
+				"Q3/2020-07-20/time-log/time-log-2020-07-23-Thu.txt"
+			],
+			[
+				"impo",
+				"important-stuff.txt"
+			],
+			[
+				"5 9",
+				"2020-05-04/time-log/time-log-2020-05-09-Sat.txt"
+			],
+			[
+				"time",
+				"template_folder/time.tmpl"
+			],
+			[
+				"04 25",
+				"2020-04-20/time-log/time-log-2020-04-25-Sat.txt"
+			],
+			[
+				"da",
+				"template_folder/daily.tmpl"
+			],
+			[
+				"time.",
+				"template_folder/time.tmpl"
+			],
+			[
+				"4 16",
+				"2020-04-13/2020-04-16-Thu.txt"
+			],
+			[
+				"time 04 14",
+				"2020-04-13/time-log/time-log-2020-04-14-Tue.txt"
+			],
+			[
+				"04 14",
+				"2020-04-13/2020-04-14-Tue.txt"
+			],
+			[
+				"4 14 time",
+				"2020-04-13/time-log/time-log-2020-04-14-Tue.txt"
+			],
+			[
+				"04 12 tim",
+				"2020-04-06/time-log/time-log-2020-04-12-Sun.txt"
+			],
+			[
+				"4 12",
+				"2020-04-06/2020-04-12-Sun.txt"
+			],
+			[
+				"sun",
+				"2020-04-06/time-log/time-log-2020-04-12-Sun.txt"
+			],
+			[
+				"Sun",
+				"2020-04-06/2020-04-11-Sun.txt"
+			],
+			[
+				"Sat",
+				"2020-04-06/2020-04-11-Sat.txt"
+			],
+			[
+				"ski",
+				"skills/skills-to-improve.txt"
+			],
+			[
+				"header",
+				"_includes/header.html"
+			],
+			[
+				"co",
+				"_config.yml"
+			],
+			[
+				"tra",
+				"_data/trans.yml"
+			],
+			[
+				"tran",
+				"_data/trans.yml"
+			],
+			[
+				"ma",
+				"_includes/css/main.css"
+			],
+			[
+				"head",
+				"_includes/header.html"
+			],
+			[
+				"c",
+				"_config.yml"
+			],
+			[
+				"m",
+				"_includes/css/main.css"
+			],
+			[
+				"mai",
+				"_includes/css/main.css"
+			],
+			[
+				"modals",
+				"_includes/modals.html"
+			],
+			[
+				"_",
+				"_config.yml"
+			],
+			[
+				"main",
+				"_includes/css/main.css"
+			],
+			[
+				"na",
+				"_includes/nav.html"
+			],
+			[
+				"foo",
+				"_includes/footer.html"
+			],
+			[
+				"_co",
+				"website/_config.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/git/pintokyo/work-log/work-log.sublime-project"
+			],
+			[
+				"we",
+				"~/git/pintokyo/website/website.sublime-project"
+			],
+			[
+				"co",
+				"~/git/pintokyo/second-game/coalition-doc/coalition-doc.sublime-project"
+			],
+			[
+				"coa",
+				"~/git/pintokyo/second-game/coalition-doc/coalition-doc.sublime-project"
+			],
+			[
+				"coalit",
+				"~/git/pintokyo/second-game/coalition-doc/coalition-doc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 323.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}

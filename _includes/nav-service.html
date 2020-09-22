@@ -31,17 +31,17 @@
                         <a href="#page-top"></a>
                     </li>                    
                     <li class="page-scroll">
-                        <a href="{{index.url}}">{{site.data.trans.nav[page.lang].home}}</a>
+                        <a class="navbar-section" href="{{index.url}}">{{site.data.trans.nav[page.lang].home}}</a>
                     </li>
                     <li class="page-scroll">
                         {% assign pages_en=site.services | where: 'ref', page.ref | where: 'lang', "en" %}
                         {% assign page_en=pages_en[0] %}
-                        <a href="{{ page_en.url }}" class="en"> <img src="{{site.flags.uk}}" width="28px"> en</a>
+                        <a href="{{ page_en.url }}" class="en navbar-section"> <img src="{{site.flags.uk}}" width="28px"> en</a>
                     </li>
                     <li class="page-scroll">
                         {% assign pages_fr=site.services | where: 'ref', page.ref | where: 'lang', "fr" %}
                         {% assign page_fr=pages_fr[0] %}
-                        <a href="{{ page_fr.url }}" class="fr"> <img src="{{site.flags.french}}" width="28px"> fr</a>
+                        <a href="{{ page_fr.url }}" class="fr navbar-section"> <img src="{{site.flags.french}}" width="28px"> fr</a>
                     </li>                 
                 </ul>
             </div>

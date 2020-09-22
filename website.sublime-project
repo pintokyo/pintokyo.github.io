@@ -1,0 +1,37 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"SublimeTmpl":
+		{
+			"attr":
+			{
+				"author": "Tihomir Gvero"
+			},
+			"enable_file_variables_on_save": true,
+			"enable_project_variables": true,
+			"file_variables_on_save":
+			{
+				"saved_filename": "name",
+				"saved_filepath": "filepath"
+			},
+			"project_variables":
+			{
+				"platform": "plat",
+				"project_base_name": "projectbase",
+				"project_path": "projectpath"
+			},
+			"template_folder": "/Users/tihomirg/git/pintokyo/work-log/template_folder",
+			"template_replace_pattern": "{{%s}}"
+		},
+		"rulers":
+		[
+			100
+		]
+	}
+}

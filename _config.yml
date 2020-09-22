@@ -2,7 +2,7 @@
 title: Pintokyo Games
 email: info@pintokyo.com
 url: https://pintokyo.github.io
-description: "Pintokyo Games is a game studio for mobile games, placed in Lausanne. It was founded by Tihomir Gvero in January 2019."
+description: "Pintokyo Games is a game and art studio placed in Lausanne. It was founded by Tihomir Gvero in January 2019."
 keywords: "games, mobile, arcade, card games, strategy, pintokyo"
 meta_author: Gvero Tihomir
 logo: "/img/logo-920x520.png"
@@ -30,12 +30,13 @@ disqus_shortname: pintokyo
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
-  link: 18bc9c
-  link-active: bc8b18
+  primary: caaa82 #18bc9c #80B3FF
+  primary-rgb: "202,170,130" #"128,179,255"
+  secondary: 82a2ca #2c3e50 #FD6E8A
+  secondary-dark: 7590b5 #233140 #A2122F
+  link: caaa82
+  link-active: b1854e
+  navbar-color: f0e7a6 
 
 favicon: "/img/favicon-256x256.png"
 flags:
@@ -61,7 +62,7 @@ social:
 
 # Support content
 support:
-  email: '<a href="mailto:info@pintokyo.com">info@pintokyo.com</a>'
+  email: '<a href="mailto:info@pintokyo.com" class="btn btn-outline">info@pintokyo.com</a>'
   phone: '+41 76 567 95 22'
 
 # Build settings

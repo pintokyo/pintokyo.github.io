@@ -35,9 +35,9 @@ h3,
 h4,
 h5,
 h6 {
-  text-transform: uppercase;
+/*  text-transform: uppercase; */
   font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 hr.star-light,
@@ -94,7 +94,7 @@ header .intro-text .name {
 }
 
 header .intro-text .skills {
-  font-size: 1.25em;
+  font-size: 1.75em;
   font-weight: 300;
 }
 
@@ -105,6 +105,9 @@ header {
   margin-top: 4%;
   padding-top: 220px;
   padding-bottom: 220px;
+  min-height: 100%;
+  min-width: 100%;          
+  background-image: url({{site.header.background-poster}});
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -143,29 +146,12 @@ img.service-logo {
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: black;
-    opacity: 0.2;
+    background-color:  #{{ site.color.secondary-dark }} !important;
+    opacity: 0.3;
     z-index: 1;
   }
 
   @media only screen and (max-device-width: 768px) {
-
-    header {
-      text-align: center;
-      position: relative;
-      color: white;
-      margin-top: 4%;
-      padding-top: 220px;
-      padding-bottom: 220px;
-      min-height: 100%;
-      min-width: 100%;          
-      background-image: url({{site.header.background-image}});
-      background-position: 50% 50%;
-    }
-
-    header video {
-      display: none;
-    }
 
     img.logo {
       width: 200px;
@@ -180,7 +166,7 @@ img.service-logo {
     }
 
     header .intro-text .skills {
-      font-size: 1.75em;
+      font-size: 2.5em;
     }
 
   }
@@ -268,7 +254,7 @@ img.service-logo {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba({{ site.color.primary-rgb }},.9);
+    background: rgba({{ site.color.primary-rgb }},.425);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -318,6 +304,10 @@ img.service-logo {
     border: solid 2px #fff;
     color: #{{ site.color.primary }};
     background: #fff;
+  }
+
+  .btn-success:hover {
+    background-color: #{{ site.color.secondary }};
   }
 
   .floating-label-form-group {
@@ -497,6 +487,14 @@ img.service-logo {
 
   .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
+  }
+
+  .navbar-brand:hover{
+      color: #{{ site.color.navbar-color }} !important;
+  }
+
+  .navbar-section:hover{
+      color: #{{ site.color.navbar-color }} !important;
   }
 
   /* Fix modal mouse wheel issues */

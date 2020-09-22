@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Pintokyo Games</title>
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="Pintokyo Games is a game studio for mobile games, placed in Lausanne. It was founded by Tihomir Gvero in January 2019.">
+    <meta name="description" content="Pintokyo Games is a game and art studio placed in Lausanne. It was founded by Tihomir Gvero in January 2019.">
     <meta name="keywords" content="games, mobile, arcade, card games, strategy, pintokyo" />
     <meta name="author" content="Gvero Tihomir">
     <link rel="canonical" href="http://localhost:4000/accueil/">
@@ -59,23 +59,23 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#about">À propos</a>
+                        <a class="navbar-section" href="#about">À propos</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio">Services</a>
+                        <a class="navbar-section" href="#portfolio">Services</a>
                     </li>                    
                     <li class="page-scroll">
-                        <a href="#contact">Contact</a>
+                        <a class="navbar-section" href="#contact">Contact</a>
                     </li>
                     <li class="page-scroll">
                         
                         
-                        <a href="/" class="en"> <img src="/img/united-kingdom-flag-256x256.png" width="28px"> en</a>
+                        <a href="/" class="en navbar-section"> <img src="/img/united-kingdom-flag-256x256.png" width="28px"> en</a>
                     </li>
                     <li class="page-scroll">
                         
                         
-                        <a href="/accueil/" class="fr"> <img src="/img/france-flag-256x256.png" width="28px"> fr</a>
+                        <a href="/accueil/" class="fr navbar-section"> <img src="/img/france-flag-256x256.png" width="28px"> fr</a>
                     </li>                                  
                 </ul>
             </div>
@@ -86,17 +86,14 @@
     </nav>
         <!-- Header -->
     <header>
-        <div class="overlay"></div>
-        <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" poster=/img/web-cover-poster.png>
-            <source src=/img/web-cover-video.mp4 type="video/mp4">
-        </video>
+        <!-- <div class="overlay"></div> -->
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <img src=/img/logo-920x520.png class="logo">
 <!--                     <hr class="star-primary">    -->                 
                     <div class="intro-text">
-                        <span class="skills">Studio de Jeux Vidéo et Société de Développement de Logiciels</span>
+                        <span class="skills">Studio de Jeux Vidéo et d'Art</span>
                     </div>
                 </div>
             </div>
@@ -114,32 +111,17 @@
         <div class="row">
             <div class="col-lg-4 col-lg-offset-2">
                 <p align="justify">
-<!--                     <b>Gvero's Pintokyo Games</b> is a game studio and 
-                    development company placed in Lausanne, Switzerland. 
-                    The main services of the company are video game 
-                    development and commercialization, and development of software
-                    which includes IT applications and software tools. -->
-                    <b>Gvero's Pintokyo Games</b> est un studio de jeu vidéo basé à Lausanne, en Suisse. Les principaux services de la société sont le développement et la commercialisation de jeux vidéo, ainsi que le développement de logiciels comprenant des applications informatiques et des outils logiciels. Le studio a été fondée en 2019.
+                    <b>Gvero's Pintokyo Games</b> est un studio de jeu vidéo et d'art, fondé à Lausanne en 2019. Les principaux services de la société sont le développement et la commercialisation de jeux vidéo et d'art numérique, ainsi que le développement de logiciels comprenant des applications informatiques et des outils logiciels.
                 </p>
             </div>
             <div class="col-lg-4">
                 <p align="justify">
-<!--                     <b>Tihomir Gvero</b>, the founder of the company, has more 
-                    than ten years of experience in software development.  
-                    He worked as a researcher at <a href="https://www.epfl.ch">EPFL</a>,
-                    as a consultant at <a href="https://itecor.com">Itecor</a> and as a data scientist at <a href="https://www.credit-suisse.com">Credit Suisse</a>. 
-                    He holds a PhD in computer science from EPFL. -->
-                    <b>Tihomir Gvero</b>, le fondateur de la société, a plus de dix ans d'expérience dans le développement de logiciels. Titulaire d'un doctorat en informatique de <a href="https://www.epfl.ch">l'EPFL</a>, Tihomir a travaillé comme consultant informatique chez <a href="https://itecor.com">Itecor</a> et plus tard en tant que scientifique des données pour <a href="https://www.credit-suisse.com">Credit Suisse</a>.
+                    <a href="https://tihomirg.github.io">Tihomir</a>, le fondateur, a plus de douze ans d'expérience dans le développement de logiciels et plus de deux ans d'expérience en design artistique. Titulaire d'un doctorat en informatique de <a href="https://www.epfl.ch">l'EPFL</a>, il a travaillé comme consultant chez <a href="https://itecor.com">Itecor</a> et en tant que scientifique des données chez <a href="https://www.credit-suisse.com">Credit Suisse</a>.
                 </p>
             </div>
-<!--                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="https://github.com/jeromelachaud/freelancer-theme" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Download Theme
-                    </a>
-                </div> -->
-            </div>
         </div>
-    </section>
+    </div>
+</section>
 
     
     <!-- Portfolio Grid Section -->
@@ -152,7 +134,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 portfolio-item col-lg-offset-2">
+                <div class="col-lg-4 portfolio-item">
                     
                                        
                     <a href="/services/game-development-fr/" class="portfolio-link" data-toggle="modal">
@@ -162,6 +144,18 @@
                             </div>
                         </div>
                         <img src="/img/portfolio/game.png" class="img-responsive" alt="image-alt">
+                    </a>
+                </div>
+                <div class="col-lg-4 portfolio-item">
+                    
+                     
+                    <a href="/services/art-design-fr/" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/portfolio/art.png" class="img-responsive" alt="image-alt">
                     </a>
                 </div>
                 <div class="col-lg-4 portfolio-item">
@@ -238,7 +232,7 @@
         <div class="footer-above">
             <div class="container">
                 <div class="row">
-                    <div class="footer-col col-md-4">
+                    <div class="footer-col col-sm-4">
                         <h3>Adresse</h3>
                         <p>
                             
@@ -248,7 +242,7 @@
 		                    
                         </p>
                     </div>
-                    <div class="footer-col col-md-4">
+                    <div class="footer-col col-sm-4">
                         <h3>Sur le Web</h3>
                         <ul class="list-inline">
                             
@@ -270,10 +264,10 @@
 		                    
                         </ul>
                     </div>
-                    <div class="footer-col col-md-4">
+                    <div class="footer-col col-sm-4">
                         <h3>Support</h3>
-                        <p>E-mail: <a href="mailto:info@pintokyo.com">info@pintokyo.com</a></p>
-                        <p>Tél: +41 76 567 95 22</p>
+                        <p><!-- E-mail: --> <a href="mailto:info@pintokyo.com" class="btn btn-outline">info@pintokyo.com</a></p>
+                        <!-- <p>Tél: +41 76 567 95 22</p> -->
                     </div>
                 </div>
 <!--                 <div class="row">
@@ -289,7 +283,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Gvero's Pintokyo Games 2019
+                        Copyright &copy; Gvero's Pintokyo Games 2020
                     </div>
                 </div>
             </div>
