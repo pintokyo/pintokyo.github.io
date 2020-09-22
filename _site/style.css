@@ -134,8 +134,8 @@ header video {
 }
 
 img.logo {
-  width: 360px;
-  height: 198px;
+  width: 345px;
+  height: 195px;
 }
 
 img.service-logo {
@@ -159,11 +159,11 @@ img.service-logo {
   }
 
   @media only screen and (max-device-width: 768px) {
-
+    
     img.logo {
-      width: 200px;
-      height: 110px;
-    }
+      width: 230px;
+      height: 130px;
+    }    
   }
 
   @media(min-width:768px) {
