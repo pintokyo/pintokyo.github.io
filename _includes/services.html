@@ -20,11 +20,13 @@
                         </div>
                         <img src="/img/portfolio/game.png" class="img-responsive" alt="image-alt">
                     </a>
+                    <h3 align="center">{{gameDevelopment.ref}}</h3>
+                    <hr><br>
                 </div>
                 <div class="col-lg-4 portfolio-item">
-                    {% assign services_d=site.services | where: 'lang', page.lang | where: 'ref', "Art Design" %}
-                    {% assign development=services_d[0] %} 
-                    <a href="{{development.url}}" class="portfolio-link" data-toggle="modal">
+                    {% assign services_ad=site.services | where: 'lang', page.lang | where: 'ref', "Art Design" %}
+                    {% assign artDesign=services_ad[0] %} 
+                    <a href="{{artDesign.url}}" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -32,6 +34,8 @@
                         </div>
                         <img src="/img/portfolio/art.png" class="img-responsive" alt="image-alt">
                     </a>
+                    <h3 align="center">{{artDesign.ref}}</h3>
+                    <hr><br>
                 </div>
                 <div class="col-lg-4 portfolio-item">
                     {% assign services_d=site.services | where: 'lang', page.lang | where: 'ref', "Software Development" %}
@@ -44,6 +48,8 @@
                         </div>
                         <img src="/img/portfolio/computer.png" class="img-responsive" alt="image-alt">
                     </a>
+                    <h3 align="center">{{development.ref}}</h3>
+                    <hr><br>
                 </div>
             </div>
         </div>
