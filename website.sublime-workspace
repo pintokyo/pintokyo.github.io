@@ -39,7 +39,7 @@
 			"file": "_services/art-design-en.md",
 			"settings":
 			{
-				"buffer_size": 761,
+				"buffer_size": 759,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -66,7 +66,7 @@
 			"file": "_services/game-development-fr.md",
 			"settings":
 			{
-				"buffer_size": 894,
+				"buffer_size": 893,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -134,7 +134,8 @@
 		"/Users/tihomirg/git/pintokyo/website/_includes/css",
 		"/Users/tihomirg/git/pintokyo/website/_layouts",
 		"/Users/tihomirg/git/pintokyo/website/_services",
-		"/Users/tihomirg/git/pintokyo/website/img"
+		"/Users/tihomirg/git/pintokyo/website/img",
+		"/Users/tihomirg/git/pintokyo/website/img/portfolio"
 	],
 	"file_history":
 	[
@@ -381,7 +382,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -390,15 +391,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 761,
+						"buffer_size": 759,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								721,
-								721
+								759,
+								759
 							]
 						],
 						"settings":
@@ -409,7 +410,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -425,8 +426,8 @@
 						"selection":
 						[
 							[
-								882,
-								882
+								878,
+								878
 							]
 						],
 						"settings":
@@ -437,7 +438,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -465,7 +466,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -474,15 +475,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 894,
+						"buffer_size": 893,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								890,
-								890
+								893,
+								893
 							]
 						],
 						"settings":
@@ -493,7 +494,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
