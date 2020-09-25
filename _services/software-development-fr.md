@@ -1,6 +1,6 @@
 ---
 layout: service
-title: "Logiciels"
+title: "Développement de Logiciels"
 subtitle: "Développement"
 lang: fr
 ref: Software Development

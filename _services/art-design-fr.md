@@ -1,6 +1,6 @@
 ---
 layout: service
-title: "Art"
+title: "Design d'Art"
 subtitle: "Design"
 lang: fr
 ref: Art Design

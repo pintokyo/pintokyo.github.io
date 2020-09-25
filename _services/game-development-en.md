@@ -1,6 +1,6 @@
 ---
 layout: service
-title: "Game"
+title: "Game Development"
 subtitle: "Development"
 lang: en
 ref: Game Development
